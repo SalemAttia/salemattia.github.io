@@ -6,15 +6,15 @@ layout: page
 
 <p> 
 
-A passionate software engineer who has Three years solid technical experience in analysis, design, development, testing, and deployment of software systems.
+A passionate software engineer who has Three years solid technical experience in analysis, design, development, testing, and deployment of software systems. <br />
 
-- Development, architecture of e-business solutions, management software , Mobile application dashboards and web-services .
+- Development, architecture of e-business solutions, management software , Mobile application dashboards and web-services . <br />
 
 - Fluent in all aspects of object-oriented / database design / front-end / back-end implementation 
-
+ <br />
 - I'm interested in building a clean architecture software and following clean code standards. 
  also, I'm passionate about DevOps and microservices. 
-
+ <br />
 </p>
 
 <h2>Skills</h2>
