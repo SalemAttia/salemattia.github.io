@@ -10,7 +10,7 @@ tag:
 star: true
 category: blog
 author: salem
-description: this my first blog ever here
+description: Basic Markdown formatting
 ---
 
 ## Basic formatting
